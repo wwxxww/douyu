@@ -1,0 +1,5 @@
+1.初始化项目:cd desktop 
+            vue init webpack douyu
+            cnpm install
+            npm run dev
+
